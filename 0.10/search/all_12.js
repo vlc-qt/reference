@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['vlc_2dqt_20changelog',['VLC-Qt Changelog',['../md_changelog.html',1,'']]],
   ['valid',['valid',['../structVlcStats.html#aaa9ef0c2dff52b629504a25a82cefcf0',1,'VlcStats']]],
   ['version',['version',['../classVlcInstance.html#ace0537dfe14655663b6f929b088d6a34',1,'VlcInstance']]],
   ['video',['video',['../classVlcMediaPlayer.html#abd0b3f65bdb3c3d9f87f700962d8ccd7',1,'VlcMediaPlayer']]],
